@@ -102,7 +102,7 @@ export function TopBar({
             </div>
             <div>
               <h1 className="text-sm font-extrabold tracking-tight text-slate-900 sm:text-base">
-                Shop Quần Áo • Kho Dồn Đơn 3D
+                Rỳ shop - tầng 1
               </h1>
               <div className="flex items-center gap-2 text-[11px] font-medium text-slate-500">
                 <span>
